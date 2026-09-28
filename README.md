@@ -353,3 +353,5 @@ These logs came with the assignment and were the only "documentation" of the pro
 ## 👤 Author
 
 **Igor Stec**: [github.com/igorstec](https://github.com/igorstec)
+
+> The README file was created with a helping hand from claude but everything else no
